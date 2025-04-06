@@ -15,3 +15,8 @@ body {
     width: 90%; /* Responsive width */
     max-width: 500px; /* Maximum width */
 }
+.todo-header {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
