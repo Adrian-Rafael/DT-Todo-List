@@ -2,5 +2,4 @@ For my HTML file I created a div container called "todo-container" it'll be the 
 
 For my style.css I just use neutral colors simple as possible. As you can see the background I used linear-gradient with a 135 degree. I centered the "todo-container" and the h2("todo-header") also give simple design into our button. 
 
-
-
+For my javascript file I declared the three variables taskInput, addButton and tasklist.
