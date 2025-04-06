@@ -39,3 +39,7 @@ body {
     border-radius: 10px;
     cursor: pointer;
 }
+.todo-list {
+    list-style-type: none;
+    padding: 0;
+}
