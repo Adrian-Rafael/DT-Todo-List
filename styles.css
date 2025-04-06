@@ -42,4 +42,29 @@ body {
 .todo-list {
     list-style-type: none;
     padding: 0;
+}/** **/
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    align-items: center;
+}
+
+.todo-item span {
+    flex-grow: 1;
+    cursor: pointer;
+}
+
+.todo-item button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.completed {
+    text-decoration: line-through;
+    color: rgb(119, 4, 4);
 }
